@@ -1,5 +1,5 @@
 DB_USER = "root"
-DB_PASSWORD = "?_q05120826q_?"
+DB_PASSWORD = "12345678"
 DB_HOST = "localhost"
 DB_NAME = "LucidFinancials"
 DATABASE_URL = f"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}/{DB_NAME}"
